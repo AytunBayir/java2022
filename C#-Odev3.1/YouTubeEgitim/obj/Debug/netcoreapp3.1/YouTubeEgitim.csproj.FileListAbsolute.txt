@@ -1,0 +1,13 @@
+C:\Users\aytun\source\repos\YouTubeEgitim\bin\Debug\netcoreapp3.1\YouTubeEgitim.exe
+C:\Users\aytun\source\repos\YouTubeEgitim\bin\Debug\netcoreapp3.1\YouTubeEgitim.deps.json
+C:\Users\aytun\source\repos\YouTubeEgitim\bin\Debug\netcoreapp3.1\YouTubeEgitim.runtimeconfig.json
+C:\Users\aytun\source\repos\YouTubeEgitim\bin\Debug\netcoreapp3.1\YouTubeEgitim.runtimeconfig.dev.json
+C:\Users\aytun\source\repos\YouTubeEgitim\bin\Debug\netcoreapp3.1\YouTubeEgitim.dll
+C:\Users\aytun\source\repos\YouTubeEgitim\bin\Debug\netcoreapp3.1\YouTubeEgitim.pdb
+C:\Users\aytun\source\repos\YouTubeEgitim\obj\Debug\netcoreapp3.1\YouTubeEgitim.csprojAssemblyReference.cache
+C:\Users\aytun\source\repos\YouTubeEgitim\obj\Debug\netcoreapp3.1\YouTubeEgitim.AssemblyInfoInputs.cache
+C:\Users\aytun\source\repos\YouTubeEgitim\obj\Debug\netcoreapp3.1\YouTubeEgitim.AssemblyInfo.cs
+C:\Users\aytun\source\repos\YouTubeEgitim\obj\Debug\netcoreapp3.1\YouTubeEgitim.csproj.CoreCompileInputs.cache
+C:\Users\aytun\source\repos\YouTubeEgitim\obj\Debug\netcoreapp3.1\YouTubeEgitim.dll
+C:\Users\aytun\source\repos\YouTubeEgitim\obj\Debug\netcoreapp3.1\YouTubeEgitim.pdb
+C:\Users\aytun\source\repos\YouTubeEgitim\obj\Debug\netcoreapp3.1\YouTubeEgitim.genruntimeconfig.cache

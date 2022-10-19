@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\aytun\OneDrive\Masaüstü\java2022 Kursu\Odev3.1" Link="Odev3.1" />
+    <Compile Include="Odev3.1" />
+  </ItemGroup>
+
+</Project>
